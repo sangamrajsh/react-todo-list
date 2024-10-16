@@ -1,8 +1,3 @@
-# React + Vite
+# Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+built using ReactJs (hooks, local storage), HTML and TailwindCSS, where the list can be added, update and delete, and store the data from the list in local storage of the browser, so the list won't disappear when the browser is refressed. #ReactJS #TailwindCSS #HTML
